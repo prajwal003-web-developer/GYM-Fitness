@@ -93,7 +93,7 @@ const Testimonials = () => {
             SUCCESS <span className="text-gradient">STORIES</span>
           </h2>
           <p className="text-muted-foreground text-lg">
-            Hear from our members who transformed their lives with IronForge.
+            Hear from our members who transformed their lives with 11 Fitness.
           </p>
         </motion.div>
 
